@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  fireBaseUrl: 'https://angular-html-ce17b-default-rtdb.firebaseio.com'
 };

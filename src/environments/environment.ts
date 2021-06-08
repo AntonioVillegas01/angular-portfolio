@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  fireBaseUrl: 'https://angular-html-ce17b-default-rtdb.firebaseio.com'
 };
 
 /*
